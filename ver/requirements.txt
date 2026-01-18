@@ -1,0 +1,6 @@
+librosa
+numpy
+kagglehub
+soundfile
+pydub
+scikit-learn
